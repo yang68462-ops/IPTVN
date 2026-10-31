@@ -1,0 +1,102 @@
+{
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jar/spider.jar;md5;2f92b21b869e0722eec445ed3cc71aa6",
+  "sites": [
+    {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "changeable": 1,
+      "filterable": 1,
+      "key": "电影天堂",
+      "name": "影视 • 电影天堂",
+      "playerType": 2,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "changeable": 1,
+      "filterable": 1,
+      "key": "量子",
+      "name": "影视 • 量子",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://suoniapi.com/api.php/provide/vod/at/xml/",
+      "changeable": 1,
+      "filterable": 1,
+      "key": "索尼",
+      "name": "影视 • 索尼",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 0
+    },
+    {
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "changeable": 1,
+      "filterable": 1,
+      "key": "暴風",
+      "name": "影视 • 暴風",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "csp_Wogg",
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.wogg.live",
+          "https://woggpan.888484.xyz",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.xxooo.cf"
+        ]
+      },
+      "filterable": 1,
+      "key": "玩偶",
+      "name": "玩偶 • 4K",
+      "quickSearch": 1,
+      "searchable": 1,
+      "timeout": 60,
+      "type": 3
+    },
+    {
+      "api": "csp_Czsapp",
+      "ext": "https://cz01.vip",
+      "filterable": 1,
+      "key": "厂长影视",
+      "name": "厂长 • 影视",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    }
+  ],
+  "lives": [
+    {
+      "name": "央视卫视",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yang68462-ops/IPTVN/Files/IPTV.m3u",
+      "epg": "https://gh-proxy.com/https://raw.githubusercontent.com/yang68462-ops/IPTVN/Files/EPG.xml"
+    },
+    {
+      "name": "央视卫视-IPv4",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yang68462-ops/IPTVN/Files/IPV4.m3u"
+    },
+    {
+      "name": "央视",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yang68462-ops/IPTVN/Files/CCTV.m3u"
+    },
+    {
+      "name": "卫视",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yang68462-ops/IPTVN/Files/CNTV.m3u"
+    },
+    {
+      "name": "港澳台",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yang68462-ops/IPTVN/Files/GAT.m3u"
+    },
+    {
+      "name": "成人",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yang68462-ops/IPTVN/Files/Adult.m3u"
+    }
+  ]
+}
